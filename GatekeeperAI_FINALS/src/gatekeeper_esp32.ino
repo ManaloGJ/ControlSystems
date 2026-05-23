@@ -11,8 +11,8 @@
 #include <LiquidCrystal_I2C.h>
 
 // ─── Wi-Fi ───────────────────────────────────────────────────
-const char* WIFI_SSID     = "Converge_2.4GHz_7ySsP9";
-const char* WIFI_PASSWORD = "h2sK2ZAy";
+const char* WIFI_SSID     = "Wifi_Name";
+const char* WIFI_PASSWORD = "Wifi_Password";
 
 // ─── Agent ───────────────────────────────────────────────────
 const char* AGENT_HOST = "http://192.168.1.6:5050/check";

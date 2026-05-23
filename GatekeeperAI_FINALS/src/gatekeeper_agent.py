@@ -21,8 +21,8 @@ from openai import OpenAI
 LM_STUDIO_URL  = "http://localhost:1234/v1"     # LM Studio local API endpoint
 LM_MODEL       = "qwen/qwen3-4b-2507"           # Local model name loaded in LM Studio
 # Telegram bot credentials
-TELEGRAM_TOKEN   = "8769962983:AAE3ajWoIO1vMrKXHWdUwe0_bJSaNRNsZFI"
-TELEGRAM_CHAT_ID = "5746900565"
+TELEGRAM_TOKEN   = "Your_Token"
+TELEGRAM_CHAT_ID = "TChat_ID"
 # JSON file used to store schedule
 SCHEDULE_FILE = "schedule.json"
 
